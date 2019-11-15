@@ -1,2 +1,0 @@
-SELECT [Scored Labels] AS PredictedSales
-FROM t1;
