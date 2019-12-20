@@ -7,6 +7,8 @@ This is my data science portfolio. enjoy!
 This is my analysis about Wine Quality. I want to make a model to predict wine quality using Ordinary Least Squares.
 [notebook](https://github.com/tegardp/data-science/blob/master/Wine%20Quality/wine.ipynb)
 
+## Natural Language Processing (NLP)
+
 * **Spam Comment Classification:**
 Classify comments into spam or not spam
 [notebook](https://github.com/tegardp/data-science/blob/master/20191210%20Spam%20Comment%20Classification/Comment%20Classification.ipynb)
