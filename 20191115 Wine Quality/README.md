@@ -1,5 +1,4 @@
 This is my analysis about Wine Quality. 
-I want to make a model to predict wine quality using Ordinary Least Squares.
 
 #### About The Data
 * Data are collected on 12 different properties of the wines one of which is Quality, based on sensory data, and the rest are on chemical properties of the wines including density, acidity, alcohol content etc.
