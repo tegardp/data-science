@@ -2,10 +2,27 @@
 
 This is my data science portfolio. enjoy!
 
+## Data Cleaning
 
-* **Wine Quality Classification:**
-This is my analysis about Wine Quality. I want to make a model to predict wine quality using Ordinary Least Squares.
-[notebook](https://github.com/tegardp/data-science/blob/master/20191115%20Wine%20Quality/wine.ipynb)
+* **Data Cleaning on Rotten Tomatoes Movie Reivews Datasets:**
+Data Preparation for Fine-grained Rotten Tomatoes Movie Reviews
+[notebook](https://github.com/tegardp/data-science/blob/master/20191212%20Rotten%20Tomatoes%20Movie%20Reviews%20Sentiment%20Analysis/Data%20preparation.ipynb)
+
+## Exploratory Data Analysis
+
+* **Wine Quality Exploratory:**
+This is my analysis about Wine Quality.
+[notebook](https://github.com/tegardp/data-science/blob/master/20191115%20Wine%20Quality/EDA.ipynb)
+
+## Machine Learning
+
+* **Bluebook for Bulldozers**
+The goal of the contest is to predict the sale price of a particular piece of heavy equiment at auction based on it's usage, equipment type, and configuaration.
+[notebook](https://github.com/tegardp/data-science/blob/master/20192112%20Blue%20Book%20for%20Bulldozers/Main.ipynb
+
+* **Wine Quality Exploratory:**
+This is my predictive model on Wine Quality dataset.
+[notebook](https://github.com/tegardp/data-science/blob/master/20191115%20Wine%20Quality/EDA.ipynb)
 
 ## Natural Language Processing (NLP)
 
