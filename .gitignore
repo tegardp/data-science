@@ -1,11 +1,5 @@
 .DS_Store
 .ipynb_checkpoints
-20191115\ Wine\ Quality/data
-20191116\ College/data
-20191118\ Haberman\'s\ Survival/data
-20191210\ News\ Title\ Classification/data
-20191210\ Spam\ Comment\ Classification/data
-20191212\ Rotten\ Tomatoes\ Movie\ Reviews\ Sentiment\ Analysis/data
-20192112\ Blue\ Book\ for\ Bulldozers/data
-20192112\ Blue\ Book\ for\ Bulldozers/data
-20192112\ Blue\ Book\ for\ Bulldozers/src/fastai
+**/data/
+**/fastai/
+lesson*
