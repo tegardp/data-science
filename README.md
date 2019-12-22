@@ -18,7 +18,7 @@ This is my analysis about Wine Quality.
 
 * **Bluebook for Bulldozers**
 The goal of the contest is to predict the sale price of a particular piece of heavy equiment at auction based on it's usage, equipment type, and configuaration.
-[notebook](https://github.com/tegardp/data-science/blob/master/20192112%20Blue%20Book%20for%20Bulldozers/Main.ipynb
+[notebook](https://github.com/tegardp/data-science/blob/master/20192112%20Blue%20Book%20for%20Bulldozers/Main.ipynb)
 
 * **Wine Quality Exploratory:**
 This is my predictive model on Wine Quality dataset.
