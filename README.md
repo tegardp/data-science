@@ -38,9 +38,3 @@ Classify News title into four categories: Business, Entertainment, Technology, a
 Basic Sentiment Analysis on Rotten Tomatoes Movie Reviews
 [notebook](https://github.com/tegardp/data-science/blob/master/20191212%20Rotten%20Tomatoes%20Movie%20Reviews%20Sentiment%20Analysis/Sentiment%20Analysis.ipynb)
 
-
-## Deep Learning
-
-* **Digit Recognizer Using CNN:**
-Build deep learning model using CNN on MNIST Digit dataset achieve 98% accuracy on kaggle
-[notebook](https://github.com/tegardp/data-science/blob/master/20191223%20Digit%20Recognizer/Digit%20Recognizer.ipynb)
