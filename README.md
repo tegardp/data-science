@@ -43,4 +43,4 @@ Basic Sentiment Analysis on Rotten Tomatoes Movie Reviews
 
 * **Digit Recognizer Using CNN:**
 Build deep learning model using CNN on MNIST Digit dataset achieve 98% accuracy on kaggle
-[notebook](https://github.com/tegardp/data-science/blob/master/20191223%20Digit%20Recognizer/Digit%Recognizer.ipynb)
+[notebook](https://github.com/tegardp/data-science/blob/master/20191223%20Digit%20Recognizer/Digit%20Recognizer.ipynb)
