@@ -46,7 +46,7 @@ Classify News title into four categories: Business, Entertainment, Technology, a
 
 ## Data Cleaning
 
-### Data Cleaning on Rotten Tomatoes Movie Reviews Datasets:
+### Clean up Rotten Tomatoes Movie Reviews Datasets:
 
 Clean up some data by joining multiple tables and removing typos for Fine-grained Rotten Tomatoes Movie Reviews. [notebook](https://github.com/tegardp/data-science/blob/master/Portfolio/20191212%20Rotten%20Tomatoes%20Movie%20Reviews%20Sentiment%20Analysis/Data%20preparation.ipynb)
 
