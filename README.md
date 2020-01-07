@@ -1,4 +1,4 @@
-# Portfolio
+# Data science portfolio by Tegar Dani Pratama
 
 This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms. A separate category is for separate projects.
 
@@ -12,19 +12,7 @@ A conversational chatbot in which was created for Badan Pusat Statistik. The mai
 
 ### Brain Tumor Classification
 Build deep learning model using CNN on Brain MRI dataset to predict bran tumor from the image.
-[notebook](https://github.com/tegardp/data-science/blob/master/Portfolio/20191223%20Digit%20Recognizer/Digit%20Recognizer.ipynb)
-
-## Data Cleaning
-
-### **Data Cleaning on Rotten Tomatoes Movie Reivews Datasets:**
-
-Data Preparation for Fine-grained Rotten Tomatoes Movie Reviews. [notebook](https://github.com/tegardp/data-science/blob/master/Portfolio/20191212%20Rotten%20Tomatoes%20Movie%20Reviews%20Sentiment%20Analysis/Data%20preparation.ipynb)
-
-## Exploratory Data Analysis
-
-### Wine Quality Exploratory:
-This is my analysis about Wine Quality.
-[notebook](https://github.com/tegardp/data-science/blob/master/Portfolio/20191115%20Wine%20Quality/EDA.ipynb)
+[notebook](https://github.com/tegardp/data-science/blob/master/Portfolio/20200106%20Brain%20Tumor%20Classification/Brain%20Tumor%20Classifier.ipynb)
 
 ## Regression
 
@@ -51,4 +39,18 @@ Classify News title into four categories: Business, Entertainment, Technology, a
 ### Fine-Grained Sentiment Analysis on Rotten Tomatoes Movie Reivews:
 Fine-grained Sentiment Analysis. The reviews classified into score of 1 - 5. With 1 being very negative and 5 very positive.
 [notebook](https://github.com/tegardp/data-science/blob/master/Portfolio/20191212%20Rotten%20Tomatoes%20Movie%20Reviews%20Sentiment%20Analysis/Sentiment%20Analysis.ipynb)
+
+## Data Cleaning
+
+### Data Cleaning on Rotten Tomatoes Movie Reivews Datasets:
+
+Clean up some data by joining multiple tables and removing typos for Fine-grained Rotten Tomatoes Movie Reviews. [notebook](https://github.com/tegardp/data-science/blob/master/Portfolio/20191212%20Rotten%20Tomatoes%20Movie%20Reviews%20Sentiment%20Analysis/Data%20preparation.ipynb)
+
+## Exploratory Data Analysis
+
+### Wine Quality Exploratory:
+This is my analysis using Wine Quality Dataset.
+[notebook](https://github.com/tegardp/data-science/blob/master/Portfolio/20191115%20Wine%20Quality/EDA.ipynb)
+
+
 
